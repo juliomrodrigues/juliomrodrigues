@@ -3,7 +3,7 @@
 <!--
 **juliomrodrigues/juliomrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 Sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas (Fatec).
-Tenho aprendido sobre Machine Learning e WebScraping e usado diversas ferramentas e recursos.
+Tenho aprendido sobre Machine Learning, Processamento de Linguagem Natural e WebScraping usando diversas ferramentas e recursos.
 
 ## Conhecimentos Gerais: 
 ### Machine Learning 
