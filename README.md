@@ -12,6 +12,10 @@ Tenho aprendido sobre Machine Learning, Processamento de Linguagem Natural e Web
 - Random Forest ;
 - Aprendizagem por Regras ;
 
+## Processamento de Linguagem Natural
+- Stemming ; 
+- Lematização ;
+
 ### Linguagens
 - Python (principalmente) ;
 - HTML (básico) ;
