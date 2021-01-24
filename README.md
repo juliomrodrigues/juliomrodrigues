@@ -36,7 +36,7 @@ Tenho aprendido sobre Machine Learning e WebScraping e usado diversas ferramenta
 Aplicando Diferentes Técnicas de Machine Learning numa base de Dados Real com Python, Sklearn e Orange: 
 - [Classificador Naive Bayes](https://github.com/juliomrodrigues/classificador-naive-bayes)
 - [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)
-- [Random Forest]
+- [Random Forest](https://github.com/juliomrodrigues/Random-Forest-Classificador)
 
 ### Contato:
 E-mail = juliodemelorodrigues@gmail.com
