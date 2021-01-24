@@ -20,8 +20,10 @@ Tenho aprendido sobre Machine Learning e WebScraping e usado diversas ferramenta
 ### Bibliotecas:
 - Sklearn ; 
 - Nltk ;
+- Pandas ;
 - BeutifulSoup4 ;
 - Goose3 ;
+
 
 ### Ferramentas e Recursos:
 - Pycharm ;
