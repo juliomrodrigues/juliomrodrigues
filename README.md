@@ -41,10 +41,14 @@ Tenho aprendido sobre Machine Learning, Processamento de Linguagem Natural e Web
 ## Meu Projetos:
 Aplicando Diferentes Técnicas de Machine Learning numa base de Dados Real com Python, Sklearn e Orange: 
 #### Classificadores
-- [Naive Bayes](https://github.com/juliomrodrigues/classificador-naive-bayes)
+- [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)
 - [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)
 - [Random Forest](https://github.com/juliomrodrigues/Random-Forest-Classificador)
+- [Aprendizagem por Regras](https://github.com/juliomrodrigues/Classificador-Regras)
+- [Aprendizagem por Instâncias(KNN)](https://github.com/juliomrodrigues/Classificador-KNN)
 - [Regressão Logística](https://github.com/juliomrodrigues/Regressao-Logistica-Classificador)
+- [SVM](https://github.com/juliomrodrigues/Classificador-SVM)
+- [Rede Neural](https://github.com/juliomrodrigues/Classificador-Rede-Neural)
 
 ### Contato:
 E-mail = juliodemelorodrigues@gmail.com 
