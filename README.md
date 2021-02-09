@@ -39,7 +39,7 @@ Tenho aprendido sobre Machine Learning, Processamento de Linguagem Natural e Web
 - MySQL WorkBench
 
 ## Meu Projetos:
-Aplicando Diferentes Técnicas de Machine Learning numa base de Dados Real com Python, Sklearn e Orange: 
+Aplicando Diferentes Técnicas de Machine Learning numa base de dados com Python, Sklearn e Orange: 
 #### Classificadores
 - [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)
 - [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)
@@ -51,5 +51,6 @@ Aplicando Diferentes Técnicas de Machine Learning numa base de Dados Real com P
 - [Rede Neural](https://github.com/juliomrodrigues/Classificador-Rede-Neural)
 
 ### Contato:
-E-mail = juliodemelorodrigues@gmail.com 
+E-mail = juliodemelorodrigues@gmail.com
+
 Linkedin: 
