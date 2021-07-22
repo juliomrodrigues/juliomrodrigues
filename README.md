@@ -14,10 +14,10 @@ Tenho estudado sobre programação em linguagem Python, principalmente na área 
 - SQL.
 
 ### Bibliotecas que mais uso em meus projetos:
-Sklearn: Criação e treinamento de algoritmos de Machine Learning;  
-Matplotlib: Geração de Gráficos;  
-Numpy: Principalmente pela facilidade de criação de arrays;  
-Pandas: Para importação, criação e manipulação de dataframes.  
+- Sklearn: Criação e treinamento de algoritmos de Machine Learning;  
+- Matplotlib: Geração de Gráficos;  
+- Numpy: Principalmente pela facilidade de criação de arrays;  
+- Pandas: Para importação, criação e manipulação de dataframes.  
 
 ### Ferramentas e Recursos:
 - Jupyter Notebook;  
