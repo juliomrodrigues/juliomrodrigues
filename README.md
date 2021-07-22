@@ -2,13 +2,12 @@
 
 <!--
 **juliomrodrigues/juliomrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
-Sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas (Fatec Zona Sul).
-Tenho estudado sobre Machine Learning, Processamento de Linguagem Natural usando diversas ferramentas e recursos.
+Sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas (Fatec Zona Sul).  
+Tenho estudado sobre programação em linguagem Python, principalmente na área de Ciência e Anláise de Dados e aqui compartilho o que aprendo: 
 
 ## Conhecimentos Gerais: 
-### Machine Learning (SKlearn)
+### Machine Learning (SKlearn):
 - Naive Bayes, Árvore de Decisão, Random Forest, Redes Neurais.
-
 ### Processamento de Linguagem Natural (SpaCy 2.0)
 - Lematização;
 
@@ -36,9 +35,9 @@ Aplicando Diferentes Técnicas de Machine Learning numa base de dados com Python
 - [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)  
 - [Rede Neural](https://github.com/juliomrodrigues/Classificador-Rede-Neural)
 
-### Gráficos
+#### Gráficos
 - [Gráfico Animado - Uso da CPU](https://github.com/juliomrodrigues/Grafico-Uso-CPU)
 
-### Contato:
+#### Contato:
 E-mail = juliodemelorodrigues@gmail.com  
 Linkedin: https://www.linkedin.com/in/j%C3%BAlio-de-melo-rodrigues/
