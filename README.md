@@ -17,24 +17,23 @@ Tenho estudado sobre Machine Learning, Processamento de Linguagem Natural usando
 - SQL.
 
 ### Bibliotecas que mais uso em meus projetos:
-Sklearn: Criação e treinamento de algoritmos de Machine Learning;
-Matplotlib: Geração de Gráficos;
-Numpy: Principalmente pela facilidade de criação de arrays;
-Pandas: Para importação, criação e manipulação de dataframes.
-
+Sklearn: Criação e treinamento de algoritmos de Machine Learning;  
+Matplotlib: Geração de Gráficos;  
+Numpy: Principalmente pela facilidade de criação de arrays;  
+Pandas: Para importação, criação e manipulação de dataframes.  
 
 ### Ferramentas e Recursos:
-- Jupyter Notebook;
-- Pycharm;
-- Spyder;
-- Visual Studio Code;
-- MySQL WorkBench.
+- Jupyter Notebook;  
+- Pycharm;  
+- Spyder;  
+- Visual Studio Code;  
+- MySQL WorkBench.  
 
 ## Meu Projetos:
 Aplicando Diferentes Técnicas de Machine Learning numa base de dados com Python e a biblioteca Sklearn: 
 #### Classificadores
-- [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)
-- [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)
+- [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)  
+- [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)  
 - [Rede Neural](https://github.com/juliomrodrigues/Classificador-Rede-Neural)
 
 ### Gráficos
