@@ -2,55 +2,44 @@
 
 <!--
 **juliomrodrigues/juliomrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
-Sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas (Fatec).
-Tenho aprendido sobre Machine Learning, Processamento de Linguagem Natural e WebScraping usando diversas ferramentas e recursos.
+Sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas (Fatec Zona Sul).
+Tenho estudado sobre Machine Learning, Processamento de Linguagem Natural usando diversas ferramentas e recursos.
 
 ## Conhecimentos Gerais: 
-### Machine Learning 
-- Naive Bayes ;
-- Árvore de Decisão ;
-- Random Forest ;
-- Aprendizagem por Regras ;
+### Machine Learning (SKlearn)
+- Naive Bayes, Árvore de Decisão, Random Forest, Redes Neurais.
 
-### Processamento de Linguagem Natural
-- Stemming ; 
-- Lematização ;
+### Processamento de Linguagem Natural (SpaCy 2.0)
+- Lematização;
 
 ### Linguagens
-- Python (principalmente) ;
-- HTML (básico) ;
-- SQL (básico)
+- Python (principalmente);
+- SQL.
 
-### Bibliotecas:
-- Sklearn ; 
-- NLTK ;
-- Pandas ;
-- BeutifulSoup4 ;
-- Goose3 ;
+### Bibliotecas que mais uso em meus projetos:
+Sklearn: Criação e treinamento de algoritmos de Machine Learning;
+Matplotlib: Geração de Gráficos;
+Numpy: Principalmente pela facilidade de criação de arrays;
+Pandas: Para importação, criação e manipulação de dataframes.
 
 
 ### Ferramentas e Recursos:
-- Pycharm ;
-- Anaconda ;
-- Spyder ;
-- Orange ;
-- Visual Studio Code ;
-- Apache NetBeans
-- MySQL WorkBench
+- Jupyter Notebook;
+- Pycharm;
+- Spyder;
+- Visual Studio Code;
+- MySQL WorkBench.
 
 ## Meu Projetos:
-Aplicando Diferentes Técnicas de Machine Learning numa base de dados com Python, Sklearn e Orange: 
+Aplicando Diferentes Técnicas de Machine Learning numa base de dados com Python e a biblioteca Sklearn: 
 #### Classificadores
 - [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)
 - [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)
-- [Random Forest](https://github.com/juliomrodrigues/Random-Forest-Classificador)
-- [Aprendizagem por Regras](https://github.com/juliomrodrigues/Classificador-Regras)
-- [Aprendizagem por Instâncias(KNN)](https://github.com/juliomrodrigues/Classificador-KNN)
-- [Regressão Logística](https://github.com/juliomrodrigues/Regressao-Logistica-Classificador)
-- [SVM](https://github.com/juliomrodrigues/Classificador-SVM)
 - [Rede Neural](https://github.com/juliomrodrigues/Classificador-Rede-Neural)
 
-### Contato:
-E-mail = juliodemelorodrigues@gmail.com
+### Gráficos
+- [Gráfico Animado - Uso da CPU](https://github.com/juliomrodrigues/Grafico-Uso-CPU)
 
-Linkedin: 
+### Contato:
+E-mail = juliodemelorodrigues@gmail.com  
+Linkedin: https://www.linkedin.com/in/j%C3%BAlio-de-melo-rodrigues/
