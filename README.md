@@ -8,8 +8,6 @@ Tenho estudado sobre programação em linguagem Python, principalmente na área 
 ## Conhecimentos Gerais: 
 ### Machine Learning (SKlearn):
 - Naive Bayes, Árvore de Decisão, Random Forest, Redes Neurais.
-### Processamento de Linguagem Natural (SpaCy 2.0)
-- Lematização;
 
 ### Linguagens
 - Python (principalmente);
